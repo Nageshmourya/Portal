@@ -8,6 +8,6 @@ public class CreateAPortalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CreateAPortalApplication.class, args);
-		System.out.println("Anish is Creating a Project");
+		System.out.println("Nagesh is Creating a Project");
 	}
 }
